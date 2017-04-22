@@ -1,0 +1,5 @@
+gTTS==1.1.8
+gTTS-token==1.1.1
+PyAudio==0.2.11
+requests==2.13.0
+SpeechRecognition==3.6.5
